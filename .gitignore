@@ -4,3 +4,7 @@ input/
 .txt
 .zip
 .vscode/
+
+backup/
+backup2/
+parsed_data/
